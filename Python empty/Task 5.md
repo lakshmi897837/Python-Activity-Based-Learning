@@ -90,3 +90,5 @@ Examination 3: 85.0
 Average Marks: 71.67
 Performance Trend: Improving
 # screenshot
+<img width="1237" height="291" alt="Screenshot 2026-10-30 105406" src="https://github.com/user-attachments/assets/a27a79cc-b458-47a1-ab2b-17c8054088f9" />
+
