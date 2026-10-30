@@ -67,6 +67,7 @@ else:
     percentage = (attended / total) * 100
 
     print("Current Attendance:", round(percentage, 2), "%")
+<img width="1235" height="134" alt="Screenshot 2026-10-30 104105" src="https://github.com/user-attachments/assets/73a2b915-babb-4297-81e0-2bc43abd9c54" />
 
     # Check attendance requirement
     if percentage >= 75:
@@ -87,3 +88,6 @@ Current Attendance: 60.0 %
 Status: Attendance below 75%.
 Additional classes to attend: 60
 # screenshot
+<img width="1235" height="134" alt="Screenshot 2026-10-30 104105" src="https://github.com/user-attachments/assets/4c025e30-300f-493f-8d8e-69f672a241aa" />
+
+
