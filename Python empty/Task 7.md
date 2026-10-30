@@ -73,3 +73,5 @@ else:
  1234321
 123454321
 # screenshot
+<img width="1258" height="165" alt="Screenshot 2026-10-30 105742" src="https://github.com/user-attachments/assets/b7f6733f-d89a-4202-afc4-44c8fb39641b" />
+
